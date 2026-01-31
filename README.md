@@ -59,3 +59,7 @@ This follows a **RAG-lite architecture**:
 - **Storage:** In-memory (demo-focused)
 
 
+http://127.0.0.1:5000
+just put it on the browser to see the thing we made
+
+
